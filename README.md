@@ -6,3 +6,6 @@ This is an outfit suggestion application. A user can log into the application, u
 
 Run "npm install @babel/core @babel/preset-env @babel/preset-react @babel/plugin-proposal-private-property-in-object --save-dev" command to fix dependency bug
 
+## REACT-BOOTSTRAP
+
+Run "npm install react-bootstrap bootstrap" command to install the bootstrap package for styling
